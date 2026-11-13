@@ -1,0 +1,64 @@
+system,comparison,n,power
+IEEE8,CAD K=2 vs monolithic,5,0.032
+IEEE8,CAD K=2 vs monolithic,10,0.2395
+IEEE8,CAD K=2 vs monolithic,15,0.3445
+IEEE8,CAD K=2 vs monolithic,20,0.5055
+IEEE8,CAD K=2 vs monolithic,30,0.6825
+IEEE8,CAD K=2 vs monolithic,40,0.8035
+IEEE8,CAD K=2 vs monolithic,50,0.891
+IEEE8,CAD K=2 vs random K=2,5,0.3875
+IEEE8,CAD K=2 vs random K=2,10,0.8875
+IEEE8,CAD K=2 vs random K=2,15,0.974
+IEEE8,CAD K=2 vs random K=2,20,0.995
+IEEE8,CAD K=2 vs random K=2,30,1.0
+IEEE8,CAD K=2 vs random K=2,40,1.0
+IEEE8,CAD K=2 vs random K=2,50,1.0
+IEEE8,CAD K=2 vs validity,5,0.031
+IEEE8,CAD K=2 vs validity,10,0.198
+IEEE8,CAD K=2 vs validity,15,0.368
+IEEE8,CAD K=2 vs validity,20,0.4845
+IEEE8,CAD K=2 vs validity,30,0.6875
+IEEE8,CAD K=2 vs validity,40,0.816
+IEEE8,CAD K=2 vs validity,50,0.888
+IEEE15,CAD K=2 vs monolithic,5,0.0615
+IEEE15,CAD K=2 vs monolithic,10,0.148
+IEEE15,CAD K=2 vs monolithic,15,0.1985
+IEEE15,CAD K=2 vs monolithic,20,0.275
+IEEE15,CAD K=2 vs monolithic,30,0.3635
+IEEE15,CAD K=2 vs monolithic,40,0.486
+IEEE15,CAD K=2 vs monolithic,50,0.5595
+IEEE15,CAD K=2 vs random K=2,5,0.864
+IEEE15,CAD K=2 vs random K=2,10,1.0
+IEEE15,CAD K=2 vs random K=2,15,1.0
+IEEE15,CAD K=2 vs random K=2,20,1.0
+IEEE15,CAD K=2 vs random K=2,30,1.0
+IEEE15,CAD K=2 vs random K=2,40,1.0
+IEEE15,CAD K=2 vs random K=2,50,1.0
+IEEE15,CAD K=2 vs validity,5,0.036
+IEEE15,CAD K=2 vs validity,10,0.05
+IEEE15,CAD K=2 vs validity,15,0.063
+IEEE15,CAD K=2 vs validity,20,0.086
+IEEE15,CAD K=2 vs validity,30,0.0985
+IEEE15,CAD K=2 vs validity,40,0.106
+IEEE15,CAD K=2 vs validity,50,0.1295
+IEEE30,CAD K=2 vs monolithic,5,0.175
+IEEE30,CAD K=2 vs monolithic,10,0.4105
+IEEE30,CAD K=2 vs monolithic,15,0.582
+IEEE30,CAD K=2 vs monolithic,20,0.7325
+IEEE30,CAD K=2 vs monolithic,30,0.8905
+IEEE30,CAD K=2 vs monolithic,40,0.956
+IEEE30,CAD K=2 vs monolithic,50,0.9905
+IEEE30,CAD K=2 vs random K=2,5,0.3295
+IEEE30,CAD K=2 vs random K=2,10,0.7
+IEEE30,CAD K=2 vs random K=2,15,0.891
+IEEE30,CAD K=2 vs random K=2,20,0.959
+IEEE30,CAD K=2 vs random K=2,30,0.9985
+IEEE30,CAD K=2 vs random K=2,40,0.9995
+IEEE30,CAD K=2 vs random K=2,50,1.0
+IEEE30,CAD K=2 vs validity,5,0.174
+IEEE30,CAD K=2 vs validity,10,0.4165
+IEEE30,CAD K=2 vs validity,15,0.629
+IEEE30,CAD K=2 vs validity,20,0.764
+IEEE30,CAD K=2 vs validity,30,0.921
+IEEE30,CAD K=2 vs validity,40,0.968
+IEEE30,CAD K=2 vs validity,50,0.9905
